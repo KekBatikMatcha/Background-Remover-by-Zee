@@ -43,7 +43,7 @@ background-remover/
 
 ## ✅ Step-by-Step Guide (How to Use This Project)
 
-### Step 1 — Get the Project
+## Step 1 — Get the Project
 **Option A: Download ZIP**
 1. Click **Code** → **Download ZIP**
 2. Extract the ZIP file
@@ -56,7 +56,7 @@ cd background-remover
 ```
 --------
 
-### Step 2 — Install Python 
+## Step 2 — Install Python 
 
 Make sure Python 3.9 or above is installed.
 
